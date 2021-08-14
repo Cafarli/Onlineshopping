@@ -1,3 +1,3 @@
 # Simple Little Online Shopping 
 #### Html, Css ,Javascript
-#### Product names and prices are sampled, not real. You need to add the photos of the products you choose.
+#### Product names and prices are sampled, not real. You need to add the photos of the products you choose. The texts were taken from Lorem Ipsum website.
